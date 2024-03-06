@@ -9,3 +9,7 @@ vt = g × t
 3.perpindahan
 
 h = 1/2 × g × t2
+
+4. ketinggian
+
+h’ = h0 – 1/2 × g × t2
