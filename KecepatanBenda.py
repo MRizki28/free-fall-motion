@@ -1,5 +1,3 @@
-import math
-
 def kecepatanAlternativTerminal(t, g):
     vt = g * t
     

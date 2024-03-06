@@ -1,5 +1,3 @@
-import math
-
 def perpindahanBenda(t,g):
     vt = 1/2 * g * t * t
     
